@@ -1,3 +1,3 @@
 # Hero-Section
 
-![Screenshot](/assign/full screen.png)
+![Screenshot](/assgn/full screen.png)
